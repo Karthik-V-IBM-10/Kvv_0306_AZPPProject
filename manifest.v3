@@ -11,18 +11,19 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmJDBCAdapter">10.3.0.0.34</value>
+    <value name="DADA_ExtendedProperty">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">15</value>
+  <value name="build">16</value>
   <null name="description"/>
   <value name="created_date">03-06-2026 07:22:33 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-06-03T07:29:17.658244016Z</value>
+  <value name="lastUpdated">2026-06-03T07:30:20.06883663Z</value>
   <value name="wmProjectId">flc029d497a6df4baba5c202543e0b62d4</value>
   <value name="creator">Karthik V</value>
 </Values>
